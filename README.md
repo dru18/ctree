@@ -32,4 +32,11 @@ This script needs to have some additional packages to be installed on your syste
 
   ![ctree](https://github.com/dru18/ctree/blob/master/screenshots/ctree.png)
 
+- Run the *uninstall.sh* file to uninstall the script and it's dependencies.
+
+  `sudo bash uninstall.sh`
+
+> Hit **enter** or **y** for 'Yes' if it asks you to continue to uninstall dependencies.
+
+
 # Good Luck. :penguin:
