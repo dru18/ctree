@@ -7,7 +7,7 @@ sudo rm /bin/ctree
 sudo rm /usr/bin/ctree.sh
 
 # purge dependencies.
-sudo apt purge cowsay toilet
+sudo apt purge tree cowsay toilet
 
 # autoremove remaining files of dependencies.
 sudo apt autoremove
