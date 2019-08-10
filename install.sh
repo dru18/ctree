@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Install dependencies.
-sudo apt install cowsay toilet
+sudo apt install tree cowsay toilet
 
 # Make 'ctree.sh' executable.
 sudo chmod 755 ctree.sh

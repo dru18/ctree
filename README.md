@@ -4,6 +4,8 @@
 
 This script needs to have some additional packages to be installed on your system to work. It will install these dependencies for you automatically. These dependencies are,
 
+**tree**
+
 **cowsay**
 
 **toilet**
