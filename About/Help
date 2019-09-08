@@ -1,0 +1,15 @@
+**********************
+	ctree
+**********************
+
+ctree v1.1
+
+Usage: ctree [directory | --version | --show | --help]
+
+directory -	directory is a directory name or address to list with ctree.
+
+--version -	--version is used to see the released version of ctree currently installed on your system.
+
+--show -	--show is used to see more information about ctree header currently installed on your system.
+
+--help -	--help is used to see help to use ctree.
