@@ -4,7 +4,7 @@
 sudo rm /bin/ctree
 
 # Remove 'ctree.sh' from /usr/bin/ directory.
-sudo rm /usr/bin/ctree.sh
+sudo rm /usr/local/bin/ctree.sh
 
 # Remove ctree/ directory from your Home directory.
 sudo rm -r $HOME/ctree/

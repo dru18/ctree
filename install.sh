@@ -9,10 +9,10 @@ sudo apt install tree cowsay toilet
 sudo chmod 755 ctree.sh
 
 # Copy 'ctree.sh' to /usr/bin/ directory.
-sudo cp ctree.sh /usr/bin/
+sudo cp ctree.sh /usr/local/bin/
 
 # Make soft link for /usr/bin/ctree.sh to /bin/ctree
-sudo ln -s /usr/bin/ctree.sh /bin/ctree
+sudo ln -s /usr/local/bin/ctree.sh /bin/ctree
 
 # Make ctree directory in your Home directory.
 sudo mkdir $HOME/ctree
