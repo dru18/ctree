@@ -7,8 +7,8 @@ sudo rm -v /bin/ctree
 # Remove 'ctree.sh' from /usr/bin/ directory.
 sudo rm -v /usr/local/bin/ctree.sh
 
-# Remove ctree/ directory from your Home directory.
-sudo rm -vr $HOME/ctree/
+# Remove '.ctree/' directory from your Home directory.
+sudo rm -vr $HOME/.ctree/
 
 # purge dependencies.
 sudo apt purge tree cowsay toilet
